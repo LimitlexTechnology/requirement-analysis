@@ -151,25 +151,7 @@ It helps identify **who** uses the system and **what functions** they perform. I
 
 ---
 
-### Example: Use Case Diagram for Booking Management System
-
-Below is a simplified use case diagram for a **Hotel Booking Management System**.  
-It includes two main actors — **Customer** and **Hotel Manager** — and their interactions with the system.
-
-#### **Actors**
-- **Customer:** Registers, searches hotels, books rooms, and makes payments.  
-- **Hotel Manager:** Manages hotel listings, updates availability, and views bookings.  
-- **System (Booking Platform):** Handles notifications, payment processing, and record management.
-
-### **Use Cases**
-- User Registration and Login  
-- Search Hotels  
-- Book a Room  
-- Make Payment  
-- Cancel Booking  
-- Manage Hotel Listings  
-- View Bookings  
-- Receive Notifications  
-
 ![Use Case Diagram](alx-booking-uc.png)
+
+alx-booking-uc.png
 
