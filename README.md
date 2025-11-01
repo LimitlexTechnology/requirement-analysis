@@ -161,8 +161,6 @@ It includes two main actors — **Customer** and **Hotel Manager** — and their
 - **Hotel Manager:** Manages hotel listings, updates availability, and views bookings.  
 - **System (Booking Platform):** Handles notifications, payment processing, and record management.
 
----
-
 ### **Use Cases**
 - User Registration and Login  
 - Search Hotels  
@@ -172,8 +170,6 @@ It includes two main actors — **Customer** and **Hotel Manager** — and their
 - Manage Hotel Listings  
 - View Bookings  
 - Receive Notifications  
-
----
 
 ![Use Case Diagram](alx-booking-uc.png)
 
