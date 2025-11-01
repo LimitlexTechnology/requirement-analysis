@@ -125,3 +125,62 @@ Non-functional requirements define the **quality attributes** of the system — 
 | **Functional** | Defines what the system should do | User registration, search, booking, payments |
 | **Non-functional** | Defines how the system should perform | Security, speed, scalability, uptime |
 
+---
+
+## Use Case Diagrams
+
+### What is a Use Case Diagram?
+
+A **Use Case Diagram** is a visual representation of how users (actors) interact with a system.  
+It helps identify **who** uses the system and **what functions** they perform. In Requirement Analysis, use case diagrams are essential for clarifying system scope and communication between stakeholders, developers, and designers.
+
+---
+
+### Benefits of Use Case Diagrams
+
+- **Clarifies System Scope:**  
+  Clearly shows what functions are included or excluded from the system.
+
+- **Improves Communication:**  
+  Bridges understanding between technical teams and non-technical stakeholders.
+
+- **Identifies User Interactions:**  
+  Helps define system roles and how each user type interacts with the system.
+
+- **Guides Development:**  
+  Provides a blueprint for creating user stories, features, and test cases.
+
+---
+
+![Use Case Diagram](alx-booking-uc.png)
+
+alx-booking-uc.png
+
+
+## 🧾 Acceptance Criteria
+
+### 🔹 Importance of Acceptance Criteria
+Acceptance Criteria (AC) are specific, measurable conditions that a software product or feature must satisfy to be accepted by users, customers, or stakeholders.
+
+They are important because:
+- They define **clear expectations** for both developers and clients.
+- They help **validate** that all user requirements are met before release.
+- They serve as a **basis for testing** and quality assurance.
+- They reduce **ambiguity** and help prevent misunderstandings during development.
+- They ensure that each feature aligns with the **project goals** and **business needs**.
+
+---
+
+### 🔹 Example: Acceptance Criteria for “Checkout Feature” in a Booking Management System
+
+**Feature:** Checkout (Finalizing room booking)
+
+**Acceptance Criteria:**
+1. ✅ The system must allow users to review their booking details (room type, price, and duration) before confirming.
+2. ✅ The system must accurately calculate the **total cost**, including taxes and discounts.
+3. ✅ Users must be able to select a **payment method** (e.g., credit card, debit card, mobile money).
+4. ✅ Upon successful payment, the system must generate a **unique booking confirmation number** and display it to the user.
+5. ✅ The system must send a **confirmation email or SMS** to the user after successful checkout.
+6. ✅ If payment fails, the system must display a **clear error message** and allow the user to retry.
+
+---
