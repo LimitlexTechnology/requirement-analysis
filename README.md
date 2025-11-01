@@ -155,3 +155,37 @@ It helps identify **who** uses the system and **what functions** they perform. I
 
 alx-booking-uc.png
 
+
+## 🧾 Acceptance Criteria
+
+### 🔹 Importance of Acceptance Criteria
+Acceptance Criteria (AC) are specific, measurable conditions that a software product or feature must satisfy to be accepted by users, customers, or stakeholders.
+
+They are important because:
+- They define **clear expectations** for both developers and clients.
+- They help **validate** that all user requirements are met before release.
+- They serve as a **basis for testing** and quality assurance.
+- They reduce **ambiguity** and help prevent misunderstandings during development.
+- They ensure that each feature aligns with the **project goals** and **business needs**.
+
+---
+
+### 🔹 Example: Acceptance Criteria for “Checkout Feature” in a Booking Management System
+
+**Feature:** Checkout (Finalizing room booking)
+
+**Acceptance Criteria:**
+1. ✅ The system must allow users to review their booking details (room type, price, and duration) before confirming.
+2. ✅ The system must accurately calculate the **total cost**, including taxes and discounts.
+3. ✅ Users must be able to select a **payment method** (e.g., credit card, debit card, mobile money).
+4. ✅ Upon successful payment, the system must generate a **unique booking confirmation number** and display it to the user.
+5. ✅ The system must send a **confirmation email or SMS** to the user after successful checkout.
+6. ✅ If payment fails, the system must display a **clear error message** and allow the user to retry.
+
+---
+
+### 💡 Summary
+Acceptance Criteria act as a **contract of understanding** between the client and the development team.  
+They ensure the final software product meets user expectations, performs correctly, and delivers a consistent, high-quality user experience.
+
+
