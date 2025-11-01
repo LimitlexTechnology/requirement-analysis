@@ -175,17 +175,5 @@ It includes two main actors — **Customer** and **Hotel Manager** — and their
 
 ---
 
-### **Use Case Diagram**
-
-Below is the visual representation of the interactions between users and the system.
-
-![Use Case Diagram for Booking System](alx-booking-uc.png)
-
-> **Note:** The image above (`alx-booking-uc.png`) should be exported from your Draw.io diagram and uploaded to this repository.
-
----
-
-### Summary
-
-This use case diagram serves as a foundational artifact in the **Requirement Analysis** process, helping all stakeholders understand how end-users interact with the booking management system.
+![Use Case Diagram](alx-booking-uc.png)
 
