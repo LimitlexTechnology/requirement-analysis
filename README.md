@@ -125,3 +125,67 @@ Non-functional requirements define the **quality attributes** of the system — 
 | **Functional** | Defines what the system should do | User registration, search, booking, payments |
 | **Non-functional** | Defines how the system should perform | Security, speed, scalability, uptime |
 
+
+## Use Case Diagrams
+
+### What is a Use Case Diagram?
+
+A **Use Case Diagram** is a visual representation of how users (actors) interact with a system.  
+It helps identify **who** uses the system and **what functions** they perform. In Requirement Analysis, use case diagrams are essential for clarifying system scope and communication between stakeholders, developers, and designers.
+
+---
+
+### Benefits of Use Case Diagrams
+
+- **Clarifies System Scope:**  
+  Clearly shows what functions are included or excluded from the system.
+
+- **Improves Communication:**  
+  Bridges understanding between technical teams and non-technical stakeholders.
+
+- **Identifies User Interactions:**  
+  Helps define system roles and how each user type interacts with the system.
+
+- **Guides Development:**  
+  Provides a blueprint for creating user stories, features, and test cases.
+
+---
+
+### Example: Use Case Diagram for Booking Management System
+
+Below is a simplified use case diagram for a **Hotel Booking Management System**.  
+It includes two main actors — **Customer** and **Hotel Manager** — and their interactions with the system.
+
+#### **Actors**
+- **Customer:** Registers, searches hotels, books rooms, and makes payments.  
+- **Hotel Manager:** Manages hotel listings, updates availability, and views bookings.  
+- **System (Booking Platform):** Handles notifications, payment processing, and record management.
+
+---
+
+### **Use Cases**
+- User Registration and Login  
+- Search Hotels  
+- Book a Room  
+- Make Payment  
+- Cancel Booking  
+- Manage Hotel Listings  
+- View Bookings  
+- Receive Notifications  
+
+---
+
+### **Use Case Diagram**
+
+Below is the visual representation of the interactions between users and the system.
+
+![Use Case Diagram for Booking System](alx-booking-uc.png)
+
+> **Note:** The image above (`alx-booking-uc.png`) should be exported from your Draw.io diagram and uploaded to this repository.
+
+---
+
+### Summary
+
+This use case diagram serves as a foundational artifact in the **Requirement Analysis** process, helping all stakeholders understand how end-users interact with the booking management system.
+
