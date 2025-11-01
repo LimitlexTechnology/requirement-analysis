@@ -151,14 +151,10 @@ It helps identify **who** uses the system and **what functions** they perform. I
   Provides a blueprint for creating user stories, features, and test cases.
 
 ---
-
-![Use Case Diagram](./alx-booking-uc.png)
-
 ## Use Case Diagram
 
 Below is the use case diagram for the Booking Management System:
-
-![Use Case Diagram](./images/alx-booking-uc.png)
+![Use Case Diagram](./alx-booking-uc.png)
 
 
 ## 🧾 Acceptance Criteria
