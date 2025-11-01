@@ -152,9 +152,7 @@ It helps identify **who** uses the system and **what functions** they perform. I
 
 ---
 
-![Use Case Diagram](alx-booking-uc.png)
-
-alx-booking-uc.png
+![Use Case Diagram](./alx-booking-uc.png)
 
 
 ## 🧾 Acceptance Criteria
